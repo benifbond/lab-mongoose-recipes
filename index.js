@@ -8,7 +8,7 @@ const data = require('./data.json');
 
 const MONGODB_URI = 'mongodb://localhost:27017/recipe-app';
 const localRecipe = {
-  title: "the local dish",
+  title: "The local dish",
   cuisine:"African Dish"
 }
 
